@@ -1,0 +1,15 @@
+Automatic vs Manual merging
+
+Pro Automatic
+-Easy , as done by the system.
+
+Con Automatic
+-chances of incomplete merging
+-Unwanted merging may be there
+
+Pro Manual
+-Only done when a logical change is there
+
+Con Manual
+-chances of error high
+-more work for user
