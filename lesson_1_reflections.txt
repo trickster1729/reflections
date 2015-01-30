@@ -1,0 +1,2 @@
+How did viewing a diff between two versions help you spot the bug?
+It was helpful because i could spot the changes that were made from the previous working version.
